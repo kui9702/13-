@@ -1,0 +1,15 @@
+Histogram
+IDPhoto
+LineChart
+Logo
+Map
+Meeting
+Other
+PieChart
+QRCode
+Sheet
+SoftwareScrrenshot
+Title
+Words
+
+每个分类类别名称
